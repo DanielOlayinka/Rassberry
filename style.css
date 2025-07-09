@@ -1,0 +1,57 @@
+#quoteheader { 
+    background-color:lightgreen;
+    color:black;
+}
+
+.highlight {
+    background:lightgreen;
+}
+
+.boxed {
+    border: 2px solid #006699;
+    border-radius: 5px;
+}
+
+body {
+    font-family: tw cen mt;
+    margin: 1;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1 {
+    color: black;
+    font-family:tw cen mt;
+    background-color:powderblue;
+    text-align:center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5)
+}
+
+h2 {
+    font-size: 25px;
+    font-family:tw cen mt;
+    background-color:powderblue;
+    text-align:center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+blockquote {
+    font-family:tw cen mt;
+    text-align:center;
+    border: 2px solid #006699;
+    border-radius: 5px;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
+
+#links {
+    color:green;
+}
